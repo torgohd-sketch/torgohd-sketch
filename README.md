@@ -38,7 +38,7 @@
 <div>
 
 <img src="./Icons/JavaScript.svg" width="80"/>
-  <img src="./Icons/NodeJS-dark.svg" width="80"/>
+  <img src="./Icons/NodeJS-Dark.svg" width="80"/>
   <img src="./Icons/MySQL-Dark.svg" width="80"/>
 
 </div>
