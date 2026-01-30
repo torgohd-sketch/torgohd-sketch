@@ -25,10 +25,10 @@
  ### |||Actualmente enfocando en:
 
 <div >
-  <img src="./icons/java-dark.svg" width="80"/>
+  <img src="./icons/Java-Dark.svg" width="80"/>
 <img src="./icons/Spring-Dark.svg" width="80"/>
-  <img src="./icons/html.svg" width="80"/>
-  <img src="./icons/mongodb.svg" width="80"/>
+  <img src="./icons/HTML.svg" width="80"/>
+  <img src="./icons/MongoDB.svg" width="80"/>
 
 </div>
 
@@ -37,9 +37,9 @@
 
 <div>
 
-<img src="./icons/javascript.svg" width="80"/>
-  <img src="./icons/nodejs-dark.svg" width="80"/>
-  <img src="./icons/mysql-dark.svg" width="80"/>
+<img src="./icons/JavaScript.svg" width="80"/>
+  <img src="./icons/NodeJS-dark.svg" width="80"/>
+  <img src="./icons/MySQL-Dark.svg" width="80"/>
 
 </div>
 
@@ -47,8 +47,8 @@
 ### |En un futuro
 <div>
 
-<img src="./icons/Angular-dark.svg" width="80"/>
-  <img src="./icons/typescript.svg" width="80"/>
+<img src="./icons/Angular-Dark.svg" width="80"/>
+  <img src="./icons/TypeScript.svg" width="80"/>
 
 ## 
 </div>
