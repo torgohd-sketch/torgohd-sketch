@@ -25,10 +25,10 @@
  ### |||Actualmente enfocando en:
 
 <div >
-  <img src="./icons/Java-Dark.svg" width="80"/>
-<img src="./icons/Spring-Dark.svg" width="80"/>
-  <img src="./icons/HTML.svg" width="80"/>
-  <img src="./icons/MongoDB.svg" width="80"/>
+  <img src="./Icons/Java-Dark.svg" width="80"/>
+<img src="./Icons/Spring-Dark.svg" width="80"/>
+  <img src="./Icons/HTML.svg" width="80"/>
+  <img src="./Icons/MongoDB.svg" width="80"/>
 
 </div>
 
@@ -37,9 +37,9 @@
 
 <div>
 
-<img src="./icons/JavaScript.svg" width="80"/>
-  <img src="./icons/NodeJS-dark.svg" width="80"/>
-  <img src="./icons/MySQL-Dark.svg" width="80"/>
+<img src="./Icons/JavaScript.svg" width="80"/>
+  <img src="./Icons/NodeJS-dark.svg" width="80"/>
+  <img src="./Icons/MySQL-Dark.svg" width="80"/>
 
 </div>
 
@@ -47,8 +47,8 @@
 ### |En un futuro
 <div>
 
-<img src="./icons/Angular-Dark.svg" width="80"/>
-  <img src="./icons/TypeScript.svg" width="80"/>
+<img src="./Icons/Angular-Dark.svg" width="80"/>
+  <img src="./Icons/TypeScript.svg" width="80"/>
 
 ## 
 </div>
