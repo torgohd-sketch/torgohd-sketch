@@ -84,7 +84,8 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=torgohd-sketch&layout=compact&theme=tokyonight" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=torgohd-sketch&show_icons=true&theme=tokyonight" />
 
-
+ <img src="https://nirzak-streak-stats.vercel.app/?user=torgohd-sketch&theme=cobalt&background=0f172a&border=1e3a8a&stroke=3b82f6&ring=60a5fa&fire=3b82f6&currStreakNum=cbd5e1&sideNums=cbd5e1&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=94a3b8" />
+ 
 
 # Como encontrarme?
 
