@@ -1,63 +1,42 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,5024&height=200&section=header&text=Mi%20pasion%20(victor%20olier)&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,5024&height=200&section=header&text=Mi%20pasi%C3%B3n%20(Victor%20Olier)&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
-<div align = "center">
-
-
- # Mi pasion es la programacion, y mi meta dominar el backend y fronend
-
- # 🎓 Estudiante en Desarrollo de Software  
-## 📍 Cartagena, Colombia 🇨🇴  
-
- </div>
-
- <div align="center">
-
-
-</div>
-
-
-
- #  🚀 Que estoy aprendido¿?
-
- ### |||Actualmente enfocando en:
-
-<div >
-  <img src="./Icons/Java-Dark.svg" width="80"/>
-<img src="./Icons/Spring-Dark.svg" width="80"/>
-  <img src="./Icons/HTML.svg" width="80"/>
-  <img src="./Icons/MongoDB.svg" width="80"/>
-
-</div>
-
-
-### ||Buenas bases en
-
-<div>
-
-<img src="./Icons/JavaScript.svg" width="80"/>
-  <img src="./Icons/NodeJS-Dark.svg" width="80"/>
-  <img src="./Icons/MySQL-Dark.svg" width="80"/>
-
-</div>
-
-
-### |En un futuro
-<div>
-
-<img src="./Icons/Angular-Dark.svg" width="80"/>
-  <img src="./Icons/TypeScript.svg" width="80"/>
-
-## 
+<div align="center">
+  <h1>Mi pasión es la programación y mi meta es dominar el Backend y Frontend</h1>
+  <h2>🎓 Estudiante en Desarrollo de Software</h2>
+  <h3>📍 Cartagena, Colombia 🇨🇴</h3>
 </div>
 
 <br>
 
+# 🚀 ¿Qué estoy aprendiendo?
 
-# Entornos de desarollo 
+### 🛠️ Actualmente enfocado en:
+<div>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="80" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" width="80" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="80" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="80" alt="MongoDB"/>
+</div>
 
+### 📚 Buenas bases en:
+<div>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="80" alt="JS"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="80" alt="Node"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="80" alt="MySQL"/>
+</div>
+
+### ⏳ En un futuro cercano:
+<div>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="80" alt="React"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" width="80" alt="Vite"/>
+</div>
+
+<br>
+
+# 💻 Entornos de desarrollo
 <div>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -65,18 +44,17 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-##
+<br>
 
-# Sobre mi 📊
-
-```m
+# Sobre mí 📊
+```json
 {
   "modo": "dev_en_construcción",
-  "Enfocado": ["backend", "lógica", "arquitectura mvc"],
-  "Aprendizaje a futuro": ["frontend", "ui/ux", "mejores prácticas"],
-  "combustible": ["curiosidad", "retos", "disciplina", "Exploracion"],
-  "Hobbys": ["Videojuegos", "musica", "Calistenia", "dibujar", "Futbol"]
-  "filosofía": "Ser mejor que ayer"
+  "enfocado": ["backend", "lógica", "arquitectura mvc"],
+  "aprendizaje_a_futuro": ["frontend", "ui/ux", "mejores prácticas"],
+  "combustible": ["curiosidad", "retos", "disciplina", "exploración"],
+  "hobbies": ["videojuegos", "música", "calistenia", "dibujar", "fútbol"],
+  "filosofía": "Ser mejor que ayer",
   "estado": "evolucionando..."
 }
 ```
