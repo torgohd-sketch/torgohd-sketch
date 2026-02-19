@@ -30,10 +30,12 @@
 
 ### ⏳ En un futuro cercano:
 <div>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="80" alt="React"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" width="80" alt="Vite"/>
-</div>
-
+  
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" width="80" alt="Vite"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="80" alt="React"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="80" alt="Tailwind"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="80" alt="JS"/>
+  
 <br>
 
 # 💻 Entornos de desarrollo
