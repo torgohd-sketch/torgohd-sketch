@@ -55,7 +55,7 @@
   "enfocado": ["backend", "lógica", "arquitectura mvc"],
   "aprendizaje_a_futuro": ["frontend", "ui/ux", "mejores prácticas"],
   "combustible": ["curiosidad", "retos", "disciplina", "exploración"],
-  "hobbies": ["videojuegos", "música", "calistenia", "dibujar", "fútbol"],
+  "hobbies": ["videojuegos", "música", "calistenia", "dibujar", "fútbol", "programar"],
   "filosofía": "Ser mejor que ayer",
   "estado": "evolucionando..."
 }
