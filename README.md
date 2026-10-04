@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1>Mi pasión es la programación y mi meta es dominar el Backend y Frontend en su totalidad </h1>
-  <h2>🎓 Estudiante en Desarrollo de Software</h2>
+  <h2>🎓 Estudiante en ingenieria de sistemas</h2>
   <h3>📍 Cartagena, Colombia 🇨🇴</h3>
 </div>
 
